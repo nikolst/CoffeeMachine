@@ -1,3 +1,4 @@
+//
 package coffee_package;
 
 import java.util.Scanner;
